@@ -1,0 +1,33 @@
+@media (max-width: 1000px) {
+
+    .main_sbtitulo{
+        font-size: 33px;
+    }
+    .main_text{
+        height: auto;
+    }
+    .main_titulo{
+        font-size: 40px;
+    }
+    table{
+        padding: 0%;
+    }
+    table label{
+        padding:    0%;
+    }
+    table th{
+        font-size: 25px;
+        text-align: center;
+    }
+    table td{
+        font-size: 20px;
+    }
+    table th, table td{
+        height: 60px;
+    }
+
+    .i{
+        font-size: 13px;
+        text-align: center;
+    }
+}
